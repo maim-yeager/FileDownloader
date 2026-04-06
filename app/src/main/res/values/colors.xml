@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_variant">#003C8F</color>
+    <color name="secondary">#00ACC1</color>
+    <color name="secondary_variant">#007C91</color>
+
+    <!-- Surface colors -->
+    <color name="surface">#FFFFFF</color>
+    <color name="background">#F5F7FA</color>
+    <color name="on_surface">#1A1A2E</color>
+
+    <!-- Toolbar -->
+    <color name="toolbar_bg">#1565C0</color>
+    <color name="toolbar_text">#FFFFFF</color>
+
+    <!-- Status colors -->
+    <color name="status_downloading">#1565C0</color>
+    <color name="status_paused">#F57C00</color>
+    <color name="status_completed">#2E7D32</color>
+    <color name="status_failed">#C62828</color>
+    <color name="status_queued">#546E7A</color>
+
+    <!-- Progress bar colors -->
+    <color name="progress_bg">#E3F2FD</color>
+
+    <!-- Chip background -->
+    <color name="chip_bg">#E3F2FD</color>
+</resources>

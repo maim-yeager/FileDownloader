@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow sharing files from Downloads/FileDownloader folder -->
+    <external-path
+        name="external_downloads"
+        path="Download/FileDownloader/" />
+
+    <!-- Allow sharing from external storage root -->
+    <external-path
+        name="external_storage"
+        path="." />
+
+    <!-- Internal files directory -->
+    <files-path
+        name="internal_files"
+        path="." />
+
+    <!-- Cache directory -->
+    <cache-path
+        name="cache"
+        path="." />
+</paths>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_bg">#0D1B2A</color>
+    <color name="toolbar_text">#E0E0E0</color>
+    <color name="surface">#1E1E2E</color>
+    <color name="background">#121212</color>
+    <color name="chip_bg">#1A3558</color>
+    <color name="progress_bg">#1A3558</color>
+
+    <!-- Status colors (slightly brighter for dark bg) -->
+    <color name="status_downloading">#64B5F6</color>
+    <color name="status_paused">#FFB74D</color>
+    <color name="status_completed">#81C784</color>
+    <color name="status_failed">#EF9A9A</color>
+    <color name="status_queued">#90A4AE</color>
+</resources>
